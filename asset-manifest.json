@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Random-Number/static/css/main.80c0ae20.css",
+    "main.js": "/React-Random-Number/static/js/main.ced2f719.js",
+    "index.html": "/React-Random-Number/index.html",
+    "main.80c0ae20.css.map": "/React-Random-Number/static/css/main.80c0ae20.css.map",
+    "main.ced2f719.js.map": "/React-Random-Number/static/js/main.ced2f719.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c0ae20.css",
+    "static/js/main.ced2f719.js"
+  ]
+}
